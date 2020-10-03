@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d6b7733-f013-4a36-919a-7bf48ed5c52f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/reference/src/config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/reference/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/reference/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/reference/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/reference/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reference/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reference/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/todo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/src/api/todo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/todo/todo.ctrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/src/api/todo/todo.ctrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/todo/todo.da.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/src/api/todo/todo.da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/todo/todo.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/src/api/todo/todo.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/src/config/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/express.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/src/config/express.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/src/config/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/todo.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference/test/todo.spec.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eDYw5Pkwj6Mfqg5DJ6Ms4uMZNd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d6b7733-f013-4a36-919a-7bf48ed5c52f" name="Default Changelist" comment="" />
+      <created>1593857865727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593857865727</updated>
+      <workItem from="1593857867863" duration="1098000" />
+      <workItem from="1593861526229" duration="3814000" />
+      <workItem from="1593872263119" duration="3933000" />
+      <workItem from="1593898865321" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
